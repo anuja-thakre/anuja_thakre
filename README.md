@@ -1,3 +1,5 @@
+![logo](https://github.com/anuja-thakre/anuja_thakre/blob/main/logo.png)
+
 <h1 align="center">Hi 👋, I'm Anuja Thakre</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
